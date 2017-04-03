@@ -6,7 +6,7 @@ Just Another Space Shooter<br>
 Date:&emsp;&emsp;&emsp;&nbsp;&nbsp;
 12/15/2015<br>
 Authors:&emsp;&emsp;&nbsp;&nbsp;Ryu Muthui, Chad Dugie, and Michael Voght<br>
-Description:&emsp;Spaceshooter game created in Javascript, HTML5, and OpenGL
+Description:&emsp;Space shooter game created in Javascript, HTML5, and OpenGL
 ==============================================================================<br>
 
 ### Play the game <strong><a href="http://students.washington.edu/ryum/TyposFinalGame/public_html/index.html">here</a></strong>:
