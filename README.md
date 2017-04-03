@@ -15,8 +15,8 @@ This is our final project that our team built in 3 weeks. A Web browser game cre
 This was a fun experience for us and we learned a lot from this project that we hope to use in our future.
 To play our game, you can just click on the link provided. Have fun and we hope you enjoy it!
 
-<strong>NOTE</strong>: You should run the games using the Chrome web browser.<br>
-Explore 11 does not support AudioContext and Mozilla Firefox (v 39.0) does not support GLSL shaders.
+<strong>NOTE</strong>: You should run the game using the Chrome web browser.<br>
+Explore does not support AudioContext and Mozilla Firefox does not support GLSL shaders.
 
 ![shot1](https://cloud.githubusercontent.com/assets/10789046/24624412/a5df0e10-1860-11e7-9807-322af7f25708.png)
 ![shot2](https://cloud.githubusercontent.com/assets/10789046/24624413/a5e2cf50-1860-11e7-8272-ed45f66b09f7.png)
