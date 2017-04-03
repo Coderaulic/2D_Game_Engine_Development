@@ -9,7 +9,7 @@ Authors:&emsp;&emsp;&nbsp;&nbsp;Ryu Muthui, Chad Dugie, and Michael Voght<br>
 Description:&emsp;Spaceshooter game created in Javascript, HTML5, and OpenGL
 ==============================================================================<br>
 
-### Play the game <strong><a href="http://students.washington.edu/ryum/TyposFinalGame/public_html/index.html" target="_blank">here</a></strong>:
+### Play the game <strong><a href="http://students.washington.edu/ryum/TyposFinalGame/public_html/index.html" :target="_blank">here</a></strong>:
 
 Web browser game created using HTML5, JavaScript, and WebGL, optimized for Chrome browser.
 ![shot1](https://cloud.githubusercontent.com/assets/10789046/24624412/a5df0e10-1860-11e7-9807-322af7f25708.png)
