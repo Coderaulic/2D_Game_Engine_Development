@@ -9,7 +9,7 @@ Authors:&emsp;&emsp;&nbsp;&nbsp;Ryu Muthui, Chad Dugie, and Michael Voght<br>
 Description:&emsp;Space shooter game created in Javascript, HTML5, and OpenGL
 ==============================================================================<br>
 
-### Play the game <strong><a href="http://students.washington.edu/ryum/TyposFinalGame/public_html/index.html">here</a></strong>:
+### Play the game <strong><a href="http://faculty.washington.edu/ksung/2DGameEngine/StudentProjects/2015.CSS490.StudentProjects/5.Typo/TyposFinalGame/public_html/index.htmlhere</a></strong>:
 
 This is our final project that our team built in 3 weeks. A Web browser game created using HTML5, JavaScript, and WebGL.
 This was a fun experience for us and we learned a lot from this project that we hope to use in our future.
