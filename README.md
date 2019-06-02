@@ -9,7 +9,7 @@ Authors:&emsp;&emsp;&nbsp;&nbsp;Ryu Muthui, Chad Dugie, and Michael Voght<br>
 Description:&emsp;Space shooter game created in Javascript, HTML5, and OpenGL
 ==============================================================================<br>
 
-### Play the game <strong><a href="https://gamethemedgroup.github.io/GTCS-GameEngine/AdditionalMaterials/StudentProjects/2015.CSS490.StudentProjects/5.Typo/TyposFinalGame/public_html/index.html" target="_blank">here</a></strong>:
+### Play the game <strong><a href="https://coderaulic.github.io/2D_Game_Engine_Development/" target="_blank">here</a></strong>:
 
 This is our final project that our team built in 3 weeks. A Web browser game created using HTML5, JavaScript, and WebGL.
 This was a fun experience for us and we learned a lot from this project that we hope to use in our future.
